@@ -1,1 +1,3 @@
 test pull 1
+mybatis批量插入
+https://www.cnblogs.com/shuaifing/p/9327465.html
