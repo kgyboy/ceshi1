@@ -14,6 +14,11 @@ yangbiao	yangbiao
 ## MAVEN
 http://mvn.dev.baiwang-inner.com:8081/nexus/content/groups/public
 
+## 禅道
+yangsibiao  yangbiao
+
+## 运维管理系统
+yangsibiao  yangsibiao
 
 ## ISP 平台地址
 DEV： http://192.168.6.251:18080 
